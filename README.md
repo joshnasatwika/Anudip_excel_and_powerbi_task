@@ -1,2 +1,2 @@
-# Anudip_excel_and_powerbi_task
-All the practiced Excel and powerbi documents.
+# Excel_and_PowerBI
+All the practiced Excel and PowerBI documents.
